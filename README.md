@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a 3rd year Computer Science student studying in IIT Dharwar.
+<br>
+I am interested in App Development using Java.
+I am also interested in exploring the field of CyberSecurity/Ethical Hacking.
+I am currently learning Java for App development.
+I am looking for help with a road map for both App development and CyberSecurity/Ethical Hacking.
+
 <!--
 **AYUSHMAAN-B/AYUSHMAAN-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
