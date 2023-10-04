@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 3rd year Computer Science student studying in IIT Dharwar.
+I am a 3rd year Computer Science student studying in IIT Dharwad.
 <br>
 I am interested in App Development using Java.
 I am also interested in exploring the field of CyberSecurity/Ethical Hacking.
