@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushmaan-b" alt="ayushmaan-b" /></a> </p>
 
-- 🔭 I’m currently working on **Android Mobile Application**
+- 🔭 I’m currently working on **Flutter Development of Apps and Websites**
 
-- 🤝 I’m looking for help with **projects to work on Android Apps**
+- 🤝 I’m looking for help with **projects to work on Apps and Websites using Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AYUSHMAAN-B](https://github.com/AYUSHMAAN-B)
 
-- 📫 How to reach me **210010031@iitdh.ac.in**
+- 📫 How to reach me **ayushmaanbn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
